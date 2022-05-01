@@ -1,0 +1,15 @@
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\bin\Debug\net6.0\UC6TotalHourMonth.exe
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\bin\Debug\net6.0\UC6TotalHourMonth.deps.json
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\bin\Debug\net6.0\UC6TotalHourMonth.runtimeconfig.json
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\bin\Debug\net6.0\UC6TotalHourMonth.dll
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\bin\Debug\net6.0\UC6TotalHourMonth.pdb
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\obj\Debug\net6.0\UC6TotalHourMonth.csproj.AssemblyReference.cache
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\obj\Debug\net6.0\UC6TotalHourMonth.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\obj\Debug\net6.0\UC6TotalHourMonth.AssemblyInfoInputs.cache
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\obj\Debug\net6.0\UC6TotalHourMonth.AssemblyInfo.cs
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\obj\Debug\net6.0\UC6TotalHourMonth.csproj.CoreCompileInputs.cache
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\obj\Debug\net6.0\UC6TotalHourMonth.dll
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\obj\Debug\net6.0\refint\UC6TotalHourMonth.dll
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\obj\Debug\net6.0\UC6TotalHourMonth.pdb
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\obj\Debug\net6.0\UC6TotalHourMonth.genruntimeconfig.cache
+D:\bridgelabz\day-2\UC6TotalHourMonth\UC6TotalHourMonth\obj\Debug\net6.0\ref\UC6TotalHourMonth.dll
