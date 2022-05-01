@@ -1,0 +1,15 @@
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\obj\Debug\net6.0\UC4SwitchCase.csproj.AssemblyReference.cache
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\obj\Debug\net6.0\UC4SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\obj\Debug\net6.0\UC4SwitchCase.AssemblyInfoInputs.cache
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\obj\Debug\net6.0\UC4SwitchCase.AssemblyInfo.cs
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\obj\Debug\net6.0\UC4SwitchCase.csproj.CoreCompileInputs.cache
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\bin\Debug\net6.0\UC4SwitchCase.exe
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\bin\Debug\net6.0\UC4SwitchCase.deps.json
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\bin\Debug\net6.0\UC4SwitchCase.runtimeconfig.json
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\bin\Debug\net6.0\UC4SwitchCase.dll
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\bin\Debug\net6.0\UC4SwitchCase.pdb
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\obj\Debug\net6.0\UC4SwitchCase.dll
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\obj\Debug\net6.0\refint\UC4SwitchCase.dll
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\obj\Debug\net6.0\UC4SwitchCase.pdb
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\obj\Debug\net6.0\UC4SwitchCase.genruntimeconfig.cache
+D:\bridgelabz\day-2\UC4SwitchCase\UC4SwitchCase\obj\Debug\net6.0\ref\UC4SwitchCase.dll
