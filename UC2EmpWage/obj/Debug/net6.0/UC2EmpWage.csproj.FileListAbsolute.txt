@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\obj\Debug\net6.0\UC2EmpWage.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\obj\Debug\net6.0\UC2EmpWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\obj\Debug\net6.0\UC2EmpWage.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\obj\Debug\net6.0\UC2EmpWage.AssemblyInfo.cs
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\obj\Debug\net6.0\UC2EmpWage.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\bin\Debug\net6.0\UC2EmpWage.exe
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\bin\Debug\net6.0\UC2EmpWage.deps.json
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\bin\Debug\net6.0\UC2EmpWage.runtimeconfig.json
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\bin\Debug\net6.0\UC2EmpWage.dll
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\bin\Debug\net6.0\UC2EmpWage.pdb
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\obj\Debug\net6.0\UC2EmpWage.dll
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\obj\Debug\net6.0\refint\UC2EmpWage.dll
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\obj\Debug\net6.0\UC2EmpWage.pdb
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\obj\Debug\net6.0\UC2EmpWage.genruntimeconfig.cache
+C:\Users\HP\Desktop\UC2EmpWage\UC2EmpWage\obj\Debug\net6.0\ref\UC2EmpWage.dll
