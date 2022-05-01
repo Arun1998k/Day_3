@@ -1,0 +1,15 @@
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\obj\Debug\net6.0\UC5CalWageMonth.csproj.AssemblyReference.cache
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\obj\Debug\net6.0\UC5CalWageMonth.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\obj\Debug\net6.0\UC5CalWageMonth.AssemblyInfoInputs.cache
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\obj\Debug\net6.0\UC5CalWageMonth.AssemblyInfo.cs
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\obj\Debug\net6.0\UC5CalWageMonth.csproj.CoreCompileInputs.cache
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\bin\Debug\net6.0\UC5CalWageMonth.exe
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\bin\Debug\net6.0\UC5CalWageMonth.deps.json
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\bin\Debug\net6.0\UC5CalWageMonth.runtimeconfig.json
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\bin\Debug\net6.0\UC5CalWageMonth.dll
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\bin\Debug\net6.0\UC5CalWageMonth.pdb
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\obj\Debug\net6.0\UC5CalWageMonth.dll
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\obj\Debug\net6.0\refint\UC5CalWageMonth.dll
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\obj\Debug\net6.0\UC5CalWageMonth.pdb
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\obj\Debug\net6.0\UC5CalWageMonth.genruntimeconfig.cache
+D:\bridgelabz\day-2\UC5CalWageMonth\UC5CalWageMonth\obj\Debug\net6.0\ref\UC5CalWageMonth.dll
