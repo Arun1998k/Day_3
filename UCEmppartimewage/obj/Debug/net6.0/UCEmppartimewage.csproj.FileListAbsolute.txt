@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\obj\Debug\net6.0\UCEmppartimewage.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\obj\Debug\net6.0\UCEmppartimewage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\obj\Debug\net6.0\UCEmppartimewage.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\obj\Debug\net6.0\UCEmppartimewage.AssemblyInfo.cs
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\obj\Debug\net6.0\UCEmppartimewage.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\bin\Debug\net6.0\UCEmppartimewage.exe
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\bin\Debug\net6.0\UCEmppartimewage.deps.json
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\bin\Debug\net6.0\UCEmppartimewage.runtimeconfig.json
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\bin\Debug\net6.0\UCEmppartimewage.dll
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\bin\Debug\net6.0\UCEmppartimewage.pdb
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\obj\Debug\net6.0\UCEmppartimewage.dll
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\obj\Debug\net6.0\refint\UCEmppartimewage.dll
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\obj\Debug\net6.0\UCEmppartimewage.pdb
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\obj\Debug\net6.0\UCEmppartimewage.genruntimeconfig.cache
+C:\Users\HP\Desktop\UCEmppartimewage\UCEmppartimewage\obj\Debug\net6.0\ref\UCEmppartimewage.dll
